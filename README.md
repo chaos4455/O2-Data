@@ -6,7 +6,6 @@
 [![Principal Architect](https://img.shields.io/badge/Elias%20Andrade-Principal%20Consultant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0056B3)](https://www.linkedin.com/in/itilmgf/)
 [![Serviço Principal](https://img.shields.io/badge/Foco-Sistemas%20de%20Decis%C3%A3o%20(BI%2FDI%2FAI)-4B8BBE?style=for-the-badge&logo=chartic&logoColor=white&labelColor=0056B3)](mailto:oeliasandrade@gmail.com)
 [![Contato Email](https://img.shields.io/badge/Email-oeliasandrade@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4B8BBE)](mailto:oeliasandrade@gmail.com)
-[![Contato WhatsApp](https://img.shields.com/badge/WhatsApp-(11)%209%201335%203137-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=4B8BBE)](https://wa.me/5511913353137)
 
 ---
 
