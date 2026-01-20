@@ -40,6 +40,12 @@ Construímos o *Motor Híbrido* que integra a inteligência de negócios ao cicl
 | **Alocar Crédito e Recomendação** | ✅ Localização dos melhores clientes potenciais para ofertas. ✅ Oferta de Crédito Controlado e Personalizado em *tempo de transação*. | **Aumento da Receita por Meio de Vendas Cruzadas e Upsell Inteligente.** |
 | **Rotacionar Estoques** | ✅ Oferecer Promoções Ao Cliente no ponto de venda. ✅ Recomendar a Venda de Itens Super Estocados de forma automatizada. | **Geração Mais Rápida de Receita e Otimização do Fluxo de Caixa.** |
 
+<img width="934" height="764" alt="chrome_ZFXj8FCiXi" src="https://github.com/user-attachments/assets/84256b92-eba5-49cf-a88e-0452bf3053d5" />
+<img width="860" height="640" alt="chrome_DVJDgZBbIb" src="https://github.com/user-attachments/assets/feeda48d-6333-4f21-81be-77db891e45c3" />
+<img width="861" height="660" alt="chrome_bdMQM2XERA" src="https://github.com/user-attachments/assets/edb55819-b335-46d1-8934-f570636834ca" />
+<img width="853" height="679" alt="chrome_A8up1OlU1X" src="https://github.com/user-attachments/assets/62662110-831b-4c7e-84b6-0531c59b1248" />
+
+
 ### 2. 💰 Sistemas de Decisão para Planejamento de Compras e Demanda
 
 Transformamos a função de Compras de um centro de custos reativo para um centro de lucro estratégico, alinhando estoques à demanda real e otimizando o capital.
