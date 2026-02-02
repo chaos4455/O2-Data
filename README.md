@@ -1,4 +1,4 @@
-# 🔷 O2Data: Inteligência Explicável para a Transformação de Negócios
+# 🔷 O2Data: Inteligência Explicável para a Transformação de Negócios 
 
 ## Consultoria em Sistemas de Decisão e Arquitetura de Dados de Próxima Geração
 
